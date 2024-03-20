@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "GettingStaredGuide"
+		},
+		{
+			"path": "MakingYourFirstGame"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MakingYourFirstGame"
+	}
+}
